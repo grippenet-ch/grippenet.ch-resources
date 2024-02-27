@@ -1,0 +1,5 @@
+css-inline==0.8.7
+Jinja2==3
+Markdown==3.4.3
+MarkupSafe==2.1.2
+-r python-ifncli/requirements.txt

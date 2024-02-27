@@ -1,0 +1,4 @@
+current: influweb
+configs:
+  influweb: influweb.yaml
+  influweb-staging: influweb-staging.yaml

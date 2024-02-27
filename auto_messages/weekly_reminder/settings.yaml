@@ -1,0 +1,13 @@
+sendTo: "all-users"
+studyKey: "influweb"
+messageType: "weekly"
+nextTime: "2024-02-28-06:00:00"
+period: 86400
+defaultLanguage: "it"
+translations:
+  - lang: "en"
+    subject: "Your weekly questionnaire is ready for you"
+    templateFile: "en.html"
+  - lang: "it"
+    subject: "Il tuo questionario settimanale ti aspetta"
+    templateFile: "it.html"

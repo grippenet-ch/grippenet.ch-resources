@@ -1,0 +1,13 @@
+survey_key: 'vaccination'
+survey_info:
+  lang: en
+  format: json
+start_time: '2021-10-01T00:00:00'
+format: wide
+short_keys: false
+key_separator: '.'
+meta:
+  position: true
+  init_times: true
+  display_tile: true
+  response_time: true

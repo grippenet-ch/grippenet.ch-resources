@@ -1,0 +1,3 @@
+studies_path: studies/output
+vars:
+  default_language: "it"

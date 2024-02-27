@@ -1,0 +1,6 @@
+#!/bin/bash
+
+. .virtualenv/bin/activate
+
+export IFNCLI_CONTEXT=contexts.yaml
+python-ifncli/ifn

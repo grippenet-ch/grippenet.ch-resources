@@ -1,0 +1,8 @@
+account-deleted: "Your account has been successfully deleted"
+account-id-changed: "Your email address has been changed"
+password-changed: "Your password has been changed"
+password-reset: "Change your password"
+registration: "Registration Influweb"
+invitation: "Invitation to the new Influweb"
+verification-code: "Verification code"
+verify-email: "Confirm email address"
