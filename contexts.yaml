@@ -1,4 +1,4 @@
-current: influweb
+current: grippenetch
 configs:
-  influweb: influweb.yaml
-  influweb-staging: influweb-staging.yaml
+  grippenetch: grippenetch.yaml
+  staging: staging.yaml
