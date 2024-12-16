@@ -1,0 +1,18 @@
+sendTo: "study-participants"
+studyKey: "standard"
+messageType: "newsletter"
+defaultLanguage: "fr"
+ignoreWeekday: true
+translations:
+  - lang: "en"
+    subject: "Updated privacy policy"
+    templateFile: "en.html"
+  - lang: "fr"
+    subject: "Mise à jour de la déclaration de confidentialité"
+    templateFile: "fr.html"
+  - lang: "de"
+    subject: "Aktualisierte Datenschutzrichtlinie"
+    templateFile: "de.html"
+  - lang: "it"
+    subject: "Politica sulla privacy aggiornata"
+    templateFile: "it.html"
