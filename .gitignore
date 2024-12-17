@@ -1,4 +1,4 @@
 .virtualenv
 export_*
-influweb.yaml
-influweb-staging.yaml
+grippenetch.yaml
+grippenetch-staging.yaml
