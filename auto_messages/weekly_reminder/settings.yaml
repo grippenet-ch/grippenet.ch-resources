@@ -1,7 +1,7 @@
 sendTo: "study-participants"
 studyKey: "standard"
 messageType: "weekly"
-nextTime: "2025-01-04-06:00:00"
+nextTime: "2025-01-07-06:00:00"
 period: 86400
 defaultLanguage: "fr"
 translations:
