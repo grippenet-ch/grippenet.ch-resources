@@ -1,4 +1,4 @@
-current: staging
+current: grippenetch
 configs:
   grippenetch: grippenetch.yaml
   staging: grippenetch-staging.yaml

@@ -2,7 +2,7 @@ survey_key: 'vaccination'
 survey_info:
   lang: en
   format: json
-start_time: '2021-10-01T00:00:00'
+start_time: '2022-05-13T00:00:00'
 format: wide
 short_keys: false
 key_separator: '.'

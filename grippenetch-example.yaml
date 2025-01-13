@@ -1,0 +1,7 @@
+management_api_url: "https://grippenet.ch/admin"
+participant_api_url: "https://grippenet.ch/api"
+user_credentials:
+  email: "<your-email-address>"
+  password: "<your-password>"
+  instanceId: switzerland
+resources_path: ../
