@@ -3,4 +3,4 @@
 	url = git@github.com:influenzanet/python-ifncli.git
 [submodule "studies"]
 	path = studies
-	url = git@github.com:grippenet-ch/studies.git
+	url = git@github.com:grippenet-ch/grippenet.ch-studies.git
