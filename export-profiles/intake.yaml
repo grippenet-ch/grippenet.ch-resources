@@ -3,9 +3,11 @@ survey_info:
   lang: en
   format: json
 start_time: '2022-05-13T00:00:00'
+max_time: '2029-05-13T00:00:00'
 format: wide
 short_keys: false
 key_separator: '.'
+
 meta:
   position: true
   init_times: true
